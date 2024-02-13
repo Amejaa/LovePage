@@ -15,7 +15,7 @@ body {
 	padding: 2rem;
 	width: 100%;
 	min-height: 100vh;
-	background-image: url(../img/bg.jpg);
+	background-image: url(bg.jpg);
 	display: flex;
 	flex-direction: column;
 }
